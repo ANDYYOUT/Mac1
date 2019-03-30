@@ -1,0 +1,42 @@
+Hey.
+
+It's me again.
+
+You know, the guy who made that Mac1 GTK2 Theme?
+
+Yeah, that guy.
+
+To complement the GTK2 theme, I made an icon theme to go along with it.
+
+
+The icons currently come in 2 sizes, 16x16, and 32x32.
+
+The 16 icons are mainly for the tiny menus.
+
+The 32 icons are mainly for normal viewing.
+
+All the others are just extras I made for the fun of it.
+
+
+The icon theme is comprised of 3 different varients:
+
+The first ones are the icons that I made from scratch (e.g., the Firefox icon)
+
+The 1.5th ones are the icons that are just cropped from images, but have been edited slightly.
+
+The second are the icons that I cropped from images of the internet (or what I could find)
+
+The third are just refurbished Elementary-XFCE (default Xubuntu icons) icons
+
+
+Oh, and by the way, some icons (and by some I literally mean 8 icons) are monochromed versions of the NineIcons theme, which served as the base for this theme.
+
+Link here
+>>>>> https://github.com/grassmunk/Platinum9 <<<<<
+
+
+To install, just shove this folder in the .icons folder.
+
+thx
+
+-Me

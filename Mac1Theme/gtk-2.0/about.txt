@@ -1,0 +1,46 @@
+
+Hey.
+
+So this theme started out as a simple experiment: a theme that was closest to the orignal Mac as possible (The one from 1984, specifically)
+The theme is completely 100% done, so it should work flawlessly with most, if not all, GTK2 apps.
+
+
+Most of the Mac themes I found off the web were either Mac 9 (the theme this is based off of) or macOS (modern Macs), so I figured I'd make it myself.
+
+This was as close as I got.
+
+Oh, and remember when I said this was based of of another theme?
+
+Yeah.
+
+1.) I don't own the original theme
+
+2.) This is not a pixel-perfect recreation, more-or-less a tribute to the Mac 128k (as they call it)
+
+and most importantly,
+
+3.) This is ONLY A GTK2 THEME, which means that applications like
+MATE Calculator, Catfish, and just about every modern Gnome 3 app out there won't work with this theme.
+
+
+So here's the original theme I based it off of.
+
+>>>>> https://github.com/grassmunk/Platinum9 <<<<<
+
+That's because some of the arrows are just monochromed versions of what's in the ClassicPlatinumStreamlined theme.
+
+
+I made the window border (Yeah, it's THAT intricate) from screenshots I took of PCE JS, which is an online emulator designed to run Mac OS 7 (er, System 7)
+I know it's not System 1 by all means, but it's pretty darn close to the original.
+
+>>>>> http://jamesfriend.com.au/pce-js/ <<<<<
+
+The theme itself was cobbled together using Krita, and a little bit of GIMP at the end.
+
+And slowly, yet surely, it came together to form possibly the first Mac 128k theme in the entire world.
+
+
+Thanks for reading this,
+Me
+
+P.S., to install, shove this folder in .themes

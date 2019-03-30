@@ -1,0 +1,8 @@
+style "panel"
+{
+  bg[NORMAL] = "#ffffff"
+}
+
+widget_class "*Panel*"      style "panel"
+widget "*Panel*"            style "panel"
+class "*Panel*"             style "panel"
