@@ -31,29 +31,29 @@ Type=Fixed
 [actions/48]
 Size=48
 Context=Actions
-Type=Scalable
+Type=Fixed
 
 [actions/64]
 Size=64
 Context=Actions
-Type=Scalable
+Type=Fixed
 
 [actions/96]
 Size=96
 Context=Actions
-Type=Scalable
+Type=Fixed
 
 [actions/128]
 Size=128
 Context=Actions
-Type=Scalable
+Type=Fixed
 
 [actions/symbolic]
 Size=16
 Context=Actions
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [animations/16]
 Size=16
@@ -78,17 +78,17 @@ Type=Fixed
 [animations/48]
 Size=48
 Context=Animations
-Type=Scalable
+Type=Fixed
 
 [animations/64]
 Size=64
 Context=Animations
-Type=Scalable
+Type=Fixed
 
 [animations/128]
 Size=128
 Context=Animations
-Type=Scalable
+Type=Fixed
 
 [apps/16]
 Size=16
@@ -113,29 +113,29 @@ Type=Fixed
 [apps/48]
 Size=48
 Context=Applications
-Type=Scalable
+Type=Fixed
 
 [apps/64]
 Size=64
 Context=Applications
-Type=Scalable
+Type=Fixed
 
 [apps/96]
 Size=96
 Context=Applications
-Type=Scalable
+Type=Fixed
 
 [apps/128]
 Size=128
 Context=Applications
-Type=Scalable
+Type=Fixed
 
 [apps/symbolic]
 Size=16
 Context=Applications
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [categories/16]
 Size=16
@@ -160,29 +160,29 @@ Type=Fixed
 [categories/48]
 Size=48
 Context=Categories
-Type=Scalable
+Type=Fixed
 
 [categories/64]
 Size=64
 Context=Categories
-Type=Scalable
+Type=Fixed
 
 [categories/96]
 Size=96
 Context=Categories
-Type=Scalable
+Type=Fixed
 
 [categories/128]
 Size=128
 Context=Categories
-Type=Scalable
+Type=Fixed
 
 [categories/symbolic]
 Size=16
 Context=Categories
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [devices/16]
 Size=16
@@ -207,29 +207,29 @@ Type=Fixed
 [devices/48]
 Size=48
 Context=Devices
-Type=Scalable
+Type=Fixed
 
 [devices/64]
 Size=64
 Context=Devices
-Type=Scalable
+Type=Fixed
 
 [devices/96]
 Size=96
 Context=Devices
-Type=Scalable
+Type=Fixed
 
 [devices/128]
 Size=128
 Context=Devices
-Type=Scalable
+Type=Fixed
 
 [devices/symbolic]
 Size=16
 Context=Devices
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [emblems/10]
 Size=10
@@ -259,24 +259,24 @@ Type=Fixed
 [emblems/48]
 Size=48
 Context=Emblems
-Type=Scalable
+Type=Fixed
 
 [emblems/64]
 Size=64
 Context=Emblems
-Type=Scalable
+Type=Fixed
 
 [emblems/128]
 Size=128
 Context=Emblems
-Type=Scalable
+Type=Fixed
 
 [emblems/symbolic]
 Size=16
 Context=Emblems
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [emotes/16]
 Size=16
@@ -306,29 +306,29 @@ Type=Fixed
 [mimes/48]
 Size=48
 Context=MimeTypes
-Type=Scalable
+Type=Fixed
 
 [mimes/64]
 Size=64
 Context=MimeTypes
-Type=Scalable
+Type=Fixed
 
 [mimes/96]
 Size=96
 Context=MimeTypes
-Type=Scalable
+Type=Fixed
 
 [mimes/128]
 Size=128
 Context=MimeTypes
-Type=Scalable
+Type=Fixed
 
 [mimes/symbolic]
 Size=16
 Context=MimeTypes
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [places/16]
 Size=16
@@ -375,7 +375,7 @@ Size=16
 Context=Places
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [status/16]
 Size=16
@@ -400,24 +400,24 @@ Type=Fixed
 [status/48]
 Size=48
 Context=Status
-Type=Scalable
+Type=Fixed
 
 [status/64]
 Size=64
 Context=Status
-Type=Scalable
+Type=Fixed
 
 [status/128]
 Size=128
 Context=Status
-Type=Scalable
+Type=Fixed
 
 [status/symbolic]
 Size=16
 Context=Status
 MinSize=8
 MaxSize=512
-Type=Scalable
+Type=Fixed
 
 [notifications/16]
 Size=16
@@ -442,7 +442,7 @@ Type=Fixed
 [notifications/48]
 Size=48
 Context=Status
-Type=Scalable
+Type=Fixed
 
 [panel/16]
 Size=16
@@ -462,7 +462,7 @@ Type=Fixed
 [panel/48]
 Size=48
 Context=Status
-Type=Scalable
+Type=Fixed
 
 [stock/16]
 Size=16
@@ -487,7 +487,7 @@ Type=Fixed
 [stock/48]
 Size=48
 Context=Stock
-Type=Scalable
+Type=Fixed
 
 [tools/22]
 Size=22

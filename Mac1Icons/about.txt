@@ -17,6 +17,8 @@ The 32 icons are mainly for normal viewing.
 
 All the others are just extras I made for the fun of it.
 
+--EDIT: The icons now come in many more sizes; all the 32 to 256 icons are okay for use!
+
 
 The icon theme is comprised of 3 different varients:
 
